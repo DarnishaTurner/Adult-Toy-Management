@@ -1,0 +1,1 @@
+[{"name": "Toy1", "priceInCents": 1999, "inStock": true, "uniqueProperty": "ID1"}, {"name": "Toy2", "priceInCents": 2499, "inStock": false, "uniqueProperty": "ID2"}, {"name": "Toy3", "priceInCents": 1599, "inStock": true, "uniqueProperty": "ID3"}]
